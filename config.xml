@@ -2,13 +2,13 @@
 <widget xmlns   = "http://www.w3.org/ns/widgets"
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "com.phonegap.example"
-    versionCode = "10"
-    version     = "1.0.0" >
+    versionCode = "20"
+    version     = "1.2.0" >
   <!-- nome della app -->
   <name>Calendrier Canossian</name>
   <!-- descrizione -->
   <description>
-      Calendrier Canossian
+      Calendrier Canossian, version en francaise
   </description>
   <!-- autore -->
   <author href="https://build.phonegap.com">
